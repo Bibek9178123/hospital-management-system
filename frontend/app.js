@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8081/api';
+const API_URL = 'https://hospital-management-system-l33x.onrender.com/api';
 
 // --- UI Navigation Logic ---
 const navBtns = document.querySelectorAll('.nav-btn');
